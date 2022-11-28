@@ -4,6 +4,8 @@ This project displays a breadcrumb file-browser component showing the current lo
 
 ## Demo
 
+!["Preview"](https://raw.githubusercontent.com/EbukaMoneme/breadcrumb/main/public/breadcrumb.gif)
+
 ## Tech
 
 - JavaScript/Jsx
