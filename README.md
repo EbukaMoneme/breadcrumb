@@ -2,6 +2,8 @@
 
 This project displays a breadcrumb file-browser component showing the current location in the directory structure.
 
+You can use a deployed version here: https://breadcrumb-q1n8kjpfq-ebukamoneme.vercel.app/
+
 ## Demo
 
 !["Preview"](https://raw.githubusercontent.com/EbukaMoneme/breadcrumb/main/public/breadcrumb.gif)
